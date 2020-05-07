@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="55.981" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="1" failures="0" errors="0" time="55.981" timestamp="2020-05-07 19:47:39" hostname="CEI3021$ - CEI3021.CEIIND.COM" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\csubhaswini\\git\\KatalonGitTestRepo\\Reports\\20200507_194720\\TestSuite1\\20200507_194720"/>
+         <property name="logFiles" value="C:\\Users\\csubhaswini\\git\\KatalonGitTestRepo\\Reports\\20200507_194720\\TestSuite1\\20200507_194720\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="CEI3021$ - CEI3021.CEIIND.COM"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.4.0.1"/>
+         <property name="browser" value="Chrome 81.0.4044.138"/>
+         <property name="hostAddress" value="192.168.0.106"/>
+         <property name="sessionId" value="76156cd9719adc800cb94c397704b560"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0, executionList=}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test 1 by CJ" time="51.617" classname="Test Cases/Test 1 by CJ" status="PASSED">
+         <system-out><![CDATA[2020-05-07 19:47:41 - [TEST_CASE][PASSED] - Test Cases/Test 1 by CJ: Test Cases/Test 1 by CJ
+
+2020-05-07 19:47:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-05-07 19:47:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-05-07 19:47:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-05-07 19:48:16 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-05-07 19:48:16 - [TEST_STEP][PASSED] - navigateToUrl("lifecharger.org"): Navigate to 'http://lifecharger.org' successfully
+
+2020-05-07 19:48:31 - [MESSAGE][PASSED] - Navigate to 'http://lifecharger.org' successfully
+
+2020-05-07 19:48:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2020-05-07 19:48:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-05-07 19:47:39 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Test 1 by CJ]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
